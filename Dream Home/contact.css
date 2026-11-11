@@ -1,0 +1,49 @@
+*{
+    background-color: black;
+}
+
+#form{
+    margin-left: 40%;
+}
+
+#form input{
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    width: 300px;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    text-align: center;
+    justify-content: center;
+    color: aqua;
+}
+
+#form button{
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 15%;
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#form button:hover{
+    background-color: darkblue;
+}
+
+a{
+    margin-left: 48%;
+    margin-top: 25px;
+    color: white;
+}
